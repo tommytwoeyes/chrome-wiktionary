@@ -1,5 +1,3 @@
-// Copyright (c) 2014 Tom Malone. All rights reserved.
-// Use of this source code is governed by a MIT-style license.
 
 var menuConfig = {
     title: "Look up '%s' in Wikipedia", 
