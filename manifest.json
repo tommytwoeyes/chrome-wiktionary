@@ -1,9 +1,10 @@
 {
-  "name": "Look up in Wiktionary",
-  "description": "Look up selected word in Wiktionary",
+  "name": "Look up in Wikipedia",
+  "description": "Look up selected word in Wikipedia",
   "version": "0.1",
+  "manifest_version": 2,
   "permissions": ["contextMenus", "tabs"],
-  "background_page": "background.html",
+  "background": {"scripts": ["wikipedia.js"]},
   "icons": {
     "128": "128.png",
     "48": "48.png",
